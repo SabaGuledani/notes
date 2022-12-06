@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="page1"
+        android:id="@+id/page1Fragment"
+        android:icon="@drawable/ic_baseline_cruelty_free_24"
+        />
+    <item android:title="page2"
+        android:id="@+id/page2Fragment"
+        android:icon="@drawable/ic_baseline_call_24"/>
+    <item android:title="page3"
+        android:id="@+id/page3Fragment"
+        android:icon="@drawable/ic_baseline_yard_24"/>
+
+</menu>
